@@ -1,0 +1,13 @@
+{
+  "place": {
+    "code": "vilnius",
+    "name": "Vilnius",
+    "administrativeDivision": "Vilniaus miesto savivaldybė",
+    "country": "Lietuva",
+    "countryCode": "LT",
+    "coordinates": {
+      "latitude": 54.68705,
+      "longitude": 25.28291
+    }
+  }
+}
